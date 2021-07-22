@@ -10,6 +10,10 @@
   padding: 40px;
   color: #555;
 }
+.link{
+  text-decoration: none;
+  color: inherit
+}
 
 .sidebarMenu{
   margin-bottom: 10px
