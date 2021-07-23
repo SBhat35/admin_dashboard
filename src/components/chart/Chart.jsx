@@ -3,12 +3,15 @@ import { LineChart, Line, XAxis, CartesianGrid, Tooltip, Legend, ResponsiveConta
 
 
 export default function Chart({title, chartData, dataKey, grid }) {
+
+  console.log(dataKey)
+  console.log(chartData)
   return (
     <div className='chart'>
-      <h3 className="chartTitle">
+      <h2 className="chartTitle">
       {title}
 
-      </h3>
+      </h2>
       <ResponsiveContainer width='100%' aspect={4/1}>
         <LineChart data = {chartData}>
           <XAxis dataKey="name" stroke ="#5550BD"/>

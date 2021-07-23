@@ -13,11 +13,8 @@ export default function UserList() {
   }
   const columns = [
     { field: 'id', headerName: 'ID', width: 70 },
-    { field: 'user', headerName: 'User', width: 300, renderCell:(params)=>{
-      console.log(params)
-      
-      return(
-        
+    { field: 'user', headerName: 'User', width: 300, renderCell:(params)=>{      
+      return( 
         <div className="userListUser">
           <img className="userNameImage" src={params.row.avatar} alt=""/>
           {params.row.username}

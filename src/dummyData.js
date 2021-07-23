@@ -49,6 +49,21 @@ export const userData = [
   },
 ];
 
+export const productData = [
+  {
+    name: 'Jan',
+    Sales: 4000,
+  },
+  {
+    name: 'Feb',
+    Sales: 4700,
+  },
+  {
+    name: 'Mar',
+    Sales: 6300,
+  },
+];
+
 export const userRows = [
   {
     id: 1,
@@ -94,5 +109,53 @@ export const userRows = [
     email: 'kd@gmail.com',
     status: 'active',
     transaction: '$120',
+  },
+];
+
+export const productRows = [
+  {
+    id: 1,
+    name: 'Apple Airpods',
+    image:
+      'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
+    stock: 'active',
+    status: 'active',
+    price: '$120',
+  },
+  {
+    id: 2,
+    name: 'UE Megaboom',
+    image:
+      'https://images.pexels.com/photos/2834914/pexels-photo-2834914.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    stock: 'active',
+    status: 'active',
+    price: '$120',
+  },
+  {
+    id: 3,
+    name: 'LGTV',
+    image:
+      'https://images.pexels.com/photos/163423/basketball-professional-action-player-163423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    stock: 'active',
+    status: 'active',
+    price: '$120',
+  },
+  {
+    id: 4,
+    name: 'PS4',
+    image:
+      'https://images.pexels.com/photos/4719837/pexels-photo-4719837.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    stock: 'active',
+    status: 'active',
+    price: '$120',
+  },
+  {
+    id: 5,
+    name: 'Monitor',
+    image:
+      'https://images.pexels.com/photos/2304335/pexels-photo-2304335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    stock: 'active',
+    status: 'active',
+    price: '$120',
   },
 ];
