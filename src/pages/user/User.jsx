@@ -15,9 +15,9 @@ export default function User() {
       <div className="usercontainer">
         <div className="userShow">
           <div className="userShowTop">
-            <img src="https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" className="userShowImg"></img>
+            <img src="https://images.pexels.com/photos/8129903/pexels-photo-8129903.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" className="userShowImg"></img>
           <div className="userShowTopTitle">
-            <span className="userShowUsername">Anna Becker</span>
+            <span className="userShowUsername">Abby Pinson</span>
             <span className="userShowUserTitle">Software Engineer</span>
           </div>
           </div>
@@ -40,7 +40,7 @@ export default function User() {
               </div>
               <div className="userShowInfo">
                 <MailOutline className="userShowIcon"/>
-                <span className="userShowInfoTitle">annabeck@gmail.com</span>
+                <span className="userShowInfoTitle">ap@gmail.com</span>
               </div>
               <div className="userShowInfo">
                 <LocationSearching className="userShowIcon"/>
@@ -81,7 +81,7 @@ export default function User() {
               </div>
               <div className="userUpdateRight">
                 <div className="userUpdateUpload">
-                  <img className="userUpdateImg" alt="" src="https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"></img>
+                  <img className="userUpdateImg" alt="" src="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></img>
                   <label htmlFor="file"><Publish className="userUpdateIcon"/></label>
                   <input style={{display: "none"}}type="file" id="file"/>
                 </div>

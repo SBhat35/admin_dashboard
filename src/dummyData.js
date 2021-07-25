@@ -67,48 +67,48 @@ export const productData = [
 export const userRows = [
   {
     id: 1,
-    username: 'Michael Jordan',
+    username: 'James Michael',
     avatar:
-      'https://images.pexels.com/photos/159611/basketball-player-game-sport-159611.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
-    email: 'mj@gmail.com',
+      'https://images.pexels.com/photos/4924538/pexels-photo-4924538.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    email: 'jm@gmail.com',
     status: 'active',
-    transaction: '$120',
+    transaction: '$186',
   },
   {
     id: 2,
-    username: 'Scottie Pippen',
+    username: 'Betty White',
     avatar:
-      'https://images.pexels.com/photos/2834914/pexels-photo-2834914.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-    email: 'sp@gmail.com',
+      'https://images.pexels.com/photos/7507786/pexels-photo-7507786.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    email: 'bw@gmail.com',
     status: 'active',
-    transaction: '$120',
+    transaction: '$3312',
   },
   {
     id: 3,
-    username: 'Kobe Bryant',
+    username: 'Carl Benson',
     avatar:
-      'https://images.pexels.com/photos/163423/basketball-professional-action-player-163423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-    email: 'kb@gmail.com',
+      'https://images.pexels.com/photos/6274712/pexels-photo-6274712.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    email: 'cb@gmail.com',
     status: 'active',
-    transaction: '$120',
+    transaction: '$421',
   },
   {
     id: 4,
-    username: 'Steve Kerr',
+    username: 'Abby Pinson',
     avatar:
-      'https://images.pexels.com/photos/4719837/pexels-photo-4719837.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-    email: 'sk@gmail.com',
+      'https://images.pexels.com/photos/8129903/pexels-photo-8129903.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    email: 'ap@gmail.com',
     status: 'active',
-    transaction: '$120',
+    transaction: '$81',
   },
   {
     id: 5,
-    username: 'Kevin Durant',
+    username: 'Bill Stinson',
     avatar:
-      'https://images.pexels.com/photos/2304335/pexels-photo-2304335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-    email: 'kd@gmail.com',
+      'https://images.pexels.com/photos/5378700/pexels-photo-5378700.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+    email: 'bsgmail.com',
     status: 'active',
-    transaction: '$120',
+    transaction: '$225',
   },
 ];
 
@@ -120,7 +120,7 @@ export const productRows = [
       'https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260',
     stock: 'active',
     status: 'active',
-    price: '$120',
+    price: '$350',
   },
   {
     id: 2,
@@ -129,7 +129,7 @@ export const productRows = [
       'https://images.pexels.com/photos/2834914/pexels-photo-2834914.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
     stock: 'active',
     status: 'active',
-    price: '$120',
+    price: '$200',
   },
   {
     id: 3,
@@ -138,7 +138,7 @@ export const productRows = [
       'https://images.pexels.com/photos/163423/basketball-professional-action-player-163423.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
     stock: 'active',
     status: 'active',
-    price: '$120',
+    price: '$500',
   },
   {
     id: 4,
@@ -147,7 +147,7 @@ export const productRows = [
       'https://images.pexels.com/photos/4719837/pexels-photo-4719837.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
     stock: 'active',
     status: 'active',
-    price: '$120',
+    price: '$675',
   },
   {
     id: 5,
@@ -156,6 +156,6 @@ export const productRows = [
       'https://images.pexels.com/photos/2304335/pexels-photo-2304335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
     stock: 'active',
     status: 'active',
-    price: '$120',
+    price: '$160',
   },
 ];
