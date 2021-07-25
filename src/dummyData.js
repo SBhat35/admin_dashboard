@@ -156,6 +156,6 @@ export const productRows = [
       'https://images.pexels.com/photos/2304335/pexels-photo-2304335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
     stock: 'active',
     status: 'active',
-    price: '$160',
+    price: '$185',
   },
 ];
